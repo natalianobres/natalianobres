@@ -1,9 +1,13 @@
-### Oii, Eu sou Natália Nobre 👋
+### Oii, Eu sou a Natália Nobre 👋
 
 
-- 🔭Hoje trabalho com Recursos Humanos, especificamente no cargo de Operational Support Consultant 
-  🤔 Estou procurando excelentes candidatos para compor o nosso time!
+- 🔭Atualmente trabalho com Recursos Humanos, especificamente no cargo de Operational Support Consultant 
+- 🤔 Estou procurando excelentes candidatos para compor o nosso time!
 - 📫 E-mail para contato: nnobre@translucentcomputing.com
 - 😄 Pronomes: Ela/Dela
 
+<div>
  <a href = "mailto:nnobre@translucentcomputing.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/nataliasnobre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://twitter.com/natalianobrepsi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  
